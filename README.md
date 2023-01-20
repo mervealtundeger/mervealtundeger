@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Merve</h1>
 <br/>
-<h3 align="center">Computer Engineer | Web Designing , Cyber Security , Frontend</h3>
+<h3 align="center">Computer Engineer | Web Designing , Cyber Security , Frontend Developer</h3>
 
 <br/>
 <h3 align="center">Connect with me:</h3>
