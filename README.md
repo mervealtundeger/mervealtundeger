@@ -5,7 +5,7 @@
 
 <ul dir="auto">
    <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on KOS BOLGE MUDURLUGU</a></li>
-   <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <i><b>Python,PHP, Cyber Security, Web Designing, Frontend</b></i></li>
+   <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <i><b>Python,PHP, Cyber Security, Web Designing</b></i></li>
    <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <i><b>mervealtndgr@gmail.com</b></i></li>
    <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> A pen and paper <i><b> was enough for me to get started.</b></i></li>
 </ul>
