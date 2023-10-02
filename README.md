@@ -41,9 +41,7 @@
                 </div>
             </b></i>
     </li>
-    <li><g-emoji class="g-emoji" alias="zap"
-            fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> A pen and
-        paper <i><b> was enough for me to get started.</b></i></li>
+    <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> A pen and paper <i><b> was enough for me to get started.</b></i></li>
 </ul>
 <br>
 <h3 align="center">Connect with me:</h3>
