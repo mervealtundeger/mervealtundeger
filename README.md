@@ -28,6 +28,12 @@
 
 <br/>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervealtundeger&show_icons=true&theme=radical&layout=compact" alt="mervealtundeger" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mervealtundeger&show_icons=true&theme=radical" alt="mervealtundeger" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mervealtundeger&theme=dark" alt="mervealtundeger" /></p>
+
 
 
 
