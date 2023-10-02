@@ -18,7 +18,6 @@
 <br>
 <h3 align="center"><g-emoji alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png"
             class="emoji-result">👉</g-emoji>Connect with me:</h3><li role="option" id="emoji-point_right" data-value=":point_right:" data-emoji-name="point_right" data-text="point_right">
-        <i><b>
                 <div align="center">
                     <a href="https://github.com/mervealtundeger" target="_blank">
                         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
@@ -41,8 +40,6 @@
                             alt=instagram style="margin-bottom: 5px;" />
                     </a> 
                 </div>
-            </b></i>
-    </li>
 
 <br>
 
