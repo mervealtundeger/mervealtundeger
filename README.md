@@ -13,8 +13,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center"><br/>
 <a href="https://linkedin.com/in/merve-altundeger-033564197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mervealtundeger" height="30" width="40" /></a>
-<a href="https://instagram.com/altndgr.merve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="altndgr.merve" height="30" width="40" /></a>
 <a href="https://medium.com/@mervealtundeger56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
+<a href="https://instagram.com/altndgr.merve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="altndgr.merve" height="30" width="40" /></a>
 </p>
 
 <br/>
