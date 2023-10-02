@@ -33,6 +33,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervealtundeger&show_icons=true&theme=radical&layout=compact" alt="Kullanılan Dil İstatistikleri" />
   </a>
 </div>
+</br>
 
 <div align="center">
   <a href="https://github.com/mervealtundeger">
