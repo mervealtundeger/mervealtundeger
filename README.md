@@ -16,8 +16,7 @@
     <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> A pen and paper <i><b> was enough for me to get started.</b></i></li>
 </ul>
 <br>
-<h3 align="center"><g-emoji alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png"
-            class="emoji-result">👉</g-emoji>Connect with me:</h3>
+<h3 align="center"><g-emoji alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png" class="emoji-result">👇</g-emoji>Connect with me:</h3>
                 <div align="center">
                     <a href="https://github.com/mervealtundeger" target="_blank">
                         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
