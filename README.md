@@ -82,21 +82,13 @@
 </p>
 
 <br>
-<div align="center">
+<div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/mervealtundeger">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervealtundeger&show_icons=true&theme=radical&layout=compact" alt="Kullanılan Dil İstatistikleri" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervealtundeger&show_icons=true&theme=radical&layout=compact" alt="Kullanılan Dil İstatistikleri" />
   </a>
-</div>
 
-<div align="center">
   <a href="https://github.com/mervealtundeger">
     <img src="https://github-readme-stats.vercel.app/api?username=mervealtundeger&show_icons=true&theme=radical" alt="GitHub İstatistikleri" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/mervealtundeger">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mervealtundeger&theme=dark" alt="GitHub Streak" />
   </a>
 </div>
 
