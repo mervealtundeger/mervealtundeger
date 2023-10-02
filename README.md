@@ -8,7 +8,7 @@
    <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <i><b>Data Visualization,Network and System,Web Designing,Python,PHP</b></i></li>
    <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <i><b>mervealtundeger56@gmail.com</b></i></li>
    <li role="option" id="emoji-point_right" data-value=":point_right:" data-emoji-name="point_right" data-text="point_right">
-          <g-emoji alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png" class="emoji-result">👉</g-emoji><i><b>https://www.linkedin.com/in/merve-altundeger-033564197/ </b></i></li>
+          <g-emoji alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png" class="emoji-result">👉</g-emoji>Know about my experiences<i><b>https://www.linkedin.com/in/merve-altundeger-033564197/ </b></i></li>
    <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> A pen and paper <i><b> was enough for me to get started.</b></i></li>
 </ul>
 <br/>
