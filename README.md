@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Merve</h1>
+![image](https://github.com/mervealtundeger/mervealtundeger/assets/75848495/23da678d-331c-4fd7-a279-9bc8a45635fe)![image](https://github.com/mervealtundeger/mervealtundeger/assets/75848495/f9a3eb75-592e-480f-89d7-39bea260c3f0)<h1 align="center">Hi 👋, I'm Merve</h1>
 <br/>
 
 <h3 align="center">A curious software engineer student from Turkey</h3>
@@ -29,16 +29,12 @@
 <br/>
 
 <details>
-<sumary>:bulb: Github Stats</sumary>
-<img src="https://github-readme-stats.vercel.app/api?username=mervealtundeger&theme=tokyonight">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervealtundeger&show_icons=true&theme=radical&layout=compact" alt="mervealtundeger" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mervealtundeger&show_icons=true&theme=radical" alt="mervealtundeger" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mervealtundeger&theme=dark" alt="mervealtundeger" /></p>
 
 </details>
 
-<br/>
-
-<details>
-<sumary>:bulb:  Most Used Languages </sumary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervealtundeger&layout=compact">
-
-</details>
 
