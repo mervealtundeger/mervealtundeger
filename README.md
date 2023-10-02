@@ -88,11 +88,20 @@
   </a>
 </div>
 
-<div align="center" style="display: flex; justify-content: space-between;">
+<div align="center">
   <a href="https://github.com/mervealtundeger">
     <img src="https://github-readme-stats.vercel.app/api?username=mervealtundeger&show_icons=true&theme=radical" alt="GitHub İstatistikleri" />
   </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/mervealtundeger">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mervealtundeger&theme=dark" alt="GitHub Streak" />
   </a>
 </div>
+
+
+
+
+
+
