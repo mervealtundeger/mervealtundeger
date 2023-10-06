@@ -50,9 +50,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervealtundeger&layout=compact&theme=radical&hide_border=true" />
       </th>
     <th>
-      <img align="center" src="https://skills.thijs.gg/icons?i=linux,postgresql,python,mysql,html,css,js,react,php,git,bootstrap,laravel,postman,https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" />
-      <img align="center" src="" />
-      <img align="center" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"/>
+      <img align="center" src="https://skills.thijs.gg/icons?i=linux,postgresql,python,mysql,html,css,js,react,php,git,bootstrap,laravel,postman" />
      </th>
   </tr>
 </table>
