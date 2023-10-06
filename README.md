@@ -9,7 +9,7 @@
         currently working on KOS BOLGE MUDURLUGU</a></li>
     <li><g-emoji class="g-emoji" alias="seedling"
             fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m
-        currently learning <i><b>Data Visualization,Network and System,Web Designing,Python,PHP</b></i></li>
+        currently learning <i><b>Data Visualization,Network and System,Web Designing</b></i></li>
     <li><g-emoji class="g-emoji" alias="mailbox"
             fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to
         reach me <i><b>mervealtundeger56@gmail.com</b></i></li>
