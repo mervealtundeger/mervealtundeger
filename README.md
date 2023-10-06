@@ -95,7 +95,7 @@
   </a>
     </div>
     <br>
-    <div>
+    <div align="center">
   <a href="https://github.com/mervealtundeger">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mervealtundeger&theme=dark" alt="GitHub Streak" />
   </a>
