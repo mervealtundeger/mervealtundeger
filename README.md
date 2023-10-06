@@ -50,7 +50,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervealtundeger&layout=compact&theme=radical&hide_border=true" />
       </th>
     <th>
-      <img align="center" src="https://skills.thijs.gg/icons?i=linux,postgresql,python,elastic,kibana,mysql,html,css,js,react,php,git,bootstrap,laravel,postman" />
+      <img align="center" src="https://skills.thijs.gg/icons?i=linux,postgresql,python,elastic,elasticco_kibana-icon.svg,mysql,html,css,js,react,php,git,bootstrap,laravel,postman" />
      </th>
   </tr>
 </table>
