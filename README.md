@@ -93,8 +93,9 @@
   <a href="https://github.com/mervealtundeger">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mervealtundeger&show_icons=true&theme=radical" alt="GitHub İstatistikleri" />
   </a>
+    </div>
     <br>
-    <br>
+    <div>
   <a href="https://github.com/mervealtundeger">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mervealtundeger&theme=dark" alt="GitHub Streak" />
   </a>
