@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Merve</h1>
 <br />
 
-<h3 align="center">A curious software engineer student from Turkey</h3>
+<h3 align="center">A curious software engineer from Turkey</h3>
 
 <ul dir="auto">
     <li><g-emoji class="g-emoji" alias="telescope"
